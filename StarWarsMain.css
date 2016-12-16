@@ -1,0 +1,34 @@
+
+
+
+.header {
+	background-color: GoldenRod;
+	height: 110px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+h4 {
+	font-weight: normal;
+	margin-top: -10px;
+}
+
+.border {
+	border: 1px solid LightGray;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.textp {
+	padding: 15px;
+}
+
+img {
+	width: 100%;
+}
+
+.name {
+	font-weight: bold;
+}
+
